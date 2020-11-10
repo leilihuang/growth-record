@@ -22,3 +22,12 @@
 	* [Ant Design蚂蚁金服](https://ant.design/index-cn)
 * 小程序相关
 	*  [WeUi](https://developers.weixin.qq.com/miniprogram/dev/extended/weui/)
+
+## 原理解说
+* [event-loop讲解](https://luohaha.github.io/Chinese-uvbook/source/introduction.html)
+* [js 宏任务和微任务](https://www.cnblogs.com/wangziye/p/9566454.html)
+* [JS事件冒泡与捕获](https://www.jianshu.com/p/3f0ee1f6ec30) 	
+
+## 源码解析
+* [React 源码解析](https://react.jokcy.me/)
+* [Vue3 源码解析](https://vue3.w2deep.com/source-code/)
